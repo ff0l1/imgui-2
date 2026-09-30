@@ -1,0 +1,7 @@
+bin/
+.vs/
+.serena/
+*.user
+*.suo
+*.sdf
+*.opensdf
